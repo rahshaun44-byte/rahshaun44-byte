@@ -9,7 +9,7 @@ produced it.
 
 **Start here:** [contract-invariant-samples](https://github.com/rahshaun44-byte/contract-invariant-samples).
 Checks on EigenLayer, Uniswap v4, Sky (MakerDAO), Morpho Blue and Base's Nitro validator at pinned commits,
-all rerunnable with one command. Three reports carry their own corrections, where my review found a check
+plus my own USDC settler (Foundry, Halmos and an F* proof), all rerunnable with one command. Three reports carry their own corrections, where my review found a check
 that didn't reach the contract.
 
 | Package | Scope | Price |
